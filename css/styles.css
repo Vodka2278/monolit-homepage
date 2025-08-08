@@ -58,14 +58,26 @@ body {
 
 .logo {
     display: flex;
-    flex-direction: column;
-    line-height: 1.1;
+    align-items: center;
+    gap: 12px;
     text-decoration: none;
     transition: opacity 0.3s ease;
 }
 
 .logo:hover {
     opacity: 0.8;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+    object-fit: contain;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.1;
 }
 
 .logo-main {
