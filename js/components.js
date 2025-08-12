@@ -43,7 +43,7 @@ const footerHTML = `
                                 <a href="tel:090-62920952" class="contact-icon" title="電話">
                                     <img src="https://img.icons8.com/ios-glyphs/30/d8b4d8/phone--v1.png" alt="Phone" />
                                 </a>
-                                <a href="mailto:info@monolit-gb.com" class="contact-icon" title="メール">
+                                <a href="mailto:girlsbarmonolit@gmail.com" class="contact-icon" title="メール">
                                     <img src="https://img.icons8.com/ios-glyphs/30/d8b4d8/new-post.png" alt="Email" />
                                 </a>
                                 <a href="https://line.me/R/ti/p/@717vcsbk" class="contact-icon" title="LINE">

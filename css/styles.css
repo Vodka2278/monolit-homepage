@@ -742,7 +742,7 @@ body {
 /* Requirements & Interview Sections */
 .requirements-section,
 .interview-section {
-    margin-top: 40px;
+    margin: 24px 0;
 }
 
 .requirements-section h3,
@@ -931,14 +931,12 @@ body {
 
 .salary-label {
     color: var(--text-light);
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .salary-amount {
     color: var(--accent-pink);
-    font-weight: 300;
     font-size: 16px;
-    font-family: 'Orbitron', sans-serif;
 }
 
 .application-cta {
@@ -966,21 +964,23 @@ body {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    max-width: 350px;
-    margin: 0 auto;
+    max-width: 500px;
+    margin: 36px auto;
+    width: 80%;
 }
 
 .cta-button {
-    padding: 18px 40px;
+    padding: 16px 36px;
     background: var(--accent-pink);
-    color: var(--primary-black);
+    color: var(--white);
     text-decoration: none;
     font-family: 'Orbitron', sans-serif;
     letter-spacing: 2px;
     transition: all 0.4s ease;
-    font-size: 12px;
-    font-weight: 300;
+    font-size: 18px;
+    font-weight: bold;
     text-transform: uppercase;
+    border-radius: 10px;
 }
 
 .cta-button.secondary {
@@ -1220,12 +1220,6 @@ body {
 
     .benefit-cards {
         grid-template-columns: repeat(2, 1fr);
-    }
-
-    .cta-buttons {
-        flex-direction: row;
-        justify-content: center;
-        max-width: none;
     }
 }
 
