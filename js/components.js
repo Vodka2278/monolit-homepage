@@ -4,7 +4,7 @@ const headerHTML = `
         <div class="nav-container">
             <a href="index.html" class="logo">
                 <div class="logo-text">
-                    <span class="logo-main">MONOLIT</span>
+                    <span class="logo-main">MONOLITH</span>
                     <span class="logo-sub">GIRLS BAR</span>
                 </div>
             </a>
@@ -28,7 +28,7 @@ const footerHTML = `
         <div class="container">
             <div class="footer-content">
                 <div class="footer-main">
-                    <h2 class="footer-logo">MONOLIT</h2>
+                    <h2 class="footer-logo">MONOLITH</h2>
                     <div class="footer-links">
                         <div class="footer-section">
                             <h3>PAGES</h3>
@@ -57,7 +57,7 @@ const footerHTML = `
                     </div>
                 </div>
                 <div class="footer-bottom">
-                    <p>&copy; 2024 Girls Bar Monolit. All rights reserved.</p>
+                    <p>&copy; 2025 GIRLS BAR MONOLITH. All rights reserved.</p>
                 </div>
             </div>
         </div>
